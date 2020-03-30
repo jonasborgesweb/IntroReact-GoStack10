@@ -1,2 +1,2 @@
-# IntroReact-GoStack10
+# Introdução ao React - GoStack 10
 Módulo de Introdução ao React do GoStack10
